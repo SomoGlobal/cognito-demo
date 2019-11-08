@@ -32,7 +32,7 @@
     "axios": "^0.19.0",
     "babel-preset-stage-1": "^6.1.18",
     "json-loader": "^0.5.4",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.15",
     "node-uuid": "^1.4.7",
     "nodemon": "^1.11.0",
     "radium": "^0.18.1",
